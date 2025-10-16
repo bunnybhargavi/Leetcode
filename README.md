@@ -5,7 +5,9 @@
 </p>
 
 <p align="center">
-  ✨Practicing LeetCode in Java to level up my DSA skills, learn new patterns, and share solutions that make sense, not just work💡  
+  💻 Solving Leetcode problems the Java way!  
+  This repo is where I drop every solution I code — from easy warmups to mind-bending DSA challenges 🧠  
+  Each one is crafted to be clean, simple, and logic-first ⚙️  
 </p>
 
 ---
@@ -13,12 +15,14 @@
 ### 🧩 What’s Inside
 
 📘 **Language:** Java  
-🧠 **Focus:** DSA + Problem-Solving   
+🧠 **Focus:** DSA + Problem-Solving 
+🏗 **Goal:** Consistent problem-solving and concept mastery 
 
 ---
 
-### 🌟 Goal
-To build consistent problem-solving habits and help others learn from my approach.  
+### 🌱 My Learning Journey
+I started this repo to **track my progress**, **build consistency**, and **make problem-solving a daily habit**.  
+Every solution is a small step toward writing better, faster, and cleaner code 🌟  
 Let’s grow together — line by line, code by code! 💪  
 
 ---
