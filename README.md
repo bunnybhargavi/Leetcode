@@ -60,6 +60,7 @@ Let’s grow together — line by line, code by code! 💪
 | [0069-sqrtx](https://github.com/bunnybhargavi/Leetcode/tree/master/0069-sqrtx) |
 | [0204-count-primes](https://github.com/bunnybhargavi/Leetcode/tree/master/0204-count-primes) |
 | [2383-add-two-integers](https://github.com/bunnybhargavi/Leetcode/tree/master/2383-add-two-integers) |
+| [2556-convert-the-temperature](https://github.com/bunnybhargavi/Leetcode/tree/master/2556-convert-the-temperature) |
 ## Recursion
 |  |
 | ------- |
