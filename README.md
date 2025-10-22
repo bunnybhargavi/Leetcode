@@ -56,6 +56,7 @@ Let’s grow together — line by line, code by code! 💪
 | ------- |
 | [0050-powx-n](https://github.com/bunnybhargavi/Leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/bunnybhargavi/Leetcode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/bunnybhargavi/Leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/bunnybhargavi/Leetcode/tree/master/0069-sqrtx) |
 | [0204-count-primes](https://github.com/bunnybhargavi/Leetcode/tree/master/0204-count-primes) |
 | [2383-add-two-integers](https://github.com/bunnybhargavi/Leetcode/tree/master/2383-add-two-integers) |
@@ -84,4 +85,16 @@ Let’s grow together — line by line, code by code! 💪
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/bunnybhargavi/Leetcode/tree/master/0204-count-primes) |
+## String
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/bunnybhargavi/Leetcode/tree/master/0067-add-binary) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/bunnybhargavi/Leetcode/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/bunnybhargavi/Leetcode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
