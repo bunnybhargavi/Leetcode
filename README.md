@@ -59,12 +59,14 @@ Let’s grow together — line by line, code by code! 💪
 | [0067-add-binary](https://github.com/bunnybhargavi/Leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/bunnybhargavi/Leetcode/tree/master/0069-sqrtx) |
 | [0204-count-primes](https://github.com/bunnybhargavi/Leetcode/tree/master/0204-count-primes) |
+| [0231-power-of-two](https://github.com/bunnybhargavi/Leetcode/tree/master/0231-power-of-two) |
 | [2383-add-two-integers](https://github.com/bunnybhargavi/Leetcode/tree/master/2383-add-two-integers) |
 | [2556-convert-the-temperature](https://github.com/bunnybhargavi/Leetcode/tree/master/2556-convert-the-temperature) |
 ## Recursion
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/bunnybhargavi/Leetcode/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/bunnybhargavi/Leetcode/tree/master/0231-power-of-two) |
 ## Array
 |  |
 | ------- |
@@ -96,6 +98,7 @@ Let’s grow together — line by line, code by code! 💪
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/bunnybhargavi/Leetcode/tree/master/0067-add-binary) |
+| [0231-power-of-two](https://github.com/bunnybhargavi/Leetcode/tree/master/0231-power-of-two) |
 ## Simulation
 |  |
 | ------- |
