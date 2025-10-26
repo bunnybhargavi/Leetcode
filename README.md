@@ -75,6 +75,7 @@ Let’s grow together — line by line, code by code! 💪
 | [0033-search-in-rotated-sorted-array](https://github.com/bunnybhargavi/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/bunnybhargavi/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/bunnybhargavi/Leetcode/tree/master/0035-search-insert-position) |
+| [0057-insert-interval](https://github.com/bunnybhargavi/Leetcode/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/bunnybhargavi/Leetcode/tree/master/0066-plus-one) |
 | [0204-count-primes](https://github.com/bunnybhargavi/Leetcode/tree/master/0204-count-primes) |
 ## Binary Search
