@@ -58,6 +58,7 @@ Let’s grow together — line by line, code by code! 💪
 | [0066-plus-one](https://github.com/bunnybhargavi/Leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/bunnybhargavi/Leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/bunnybhargavi/Leetcode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/bunnybhargavi/Leetcode/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/bunnybhargavi/Leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/bunnybhargavi/Leetcode/tree/master/0231-power-of-two) |
 | [0319-bulb-switcher](https://github.com/bunnybhargavi/Leetcode/tree/master/0319-bulb-switcher) |
@@ -111,4 +112,12 @@ Let’s grow together — line by line, code by code! 💪
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/bunnybhargavi/Leetcode/tree/master/0319-bulb-switcher) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/bunnybhargavi/Leetcode/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/bunnybhargavi/Leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
