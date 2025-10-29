@@ -67,6 +67,7 @@ Let’s grow together — line by line, code by code! 💪
 | [2383-add-two-integers](https://github.com/bunnybhargavi/Leetcode/tree/master/2383-add-two-integers) |
 | [2556-convert-the-temperature](https://github.com/bunnybhargavi/Leetcode/tree/master/2556-convert-the-temperature) |
 | [3830-find-closest-person](https://github.com/bunnybhargavi/Leetcode/tree/master/3830-find-closest-person) |
+| [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/bunnybhargavi/Leetcode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Recursion
 |  |
 | ------- |
@@ -81,6 +82,7 @@ Let’s grow together — line by line, code by code! 💪
 | [0057-insert-interval](https://github.com/bunnybhargavi/Leetcode/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/bunnybhargavi/Leetcode/tree/master/0066-plus-one) |
 | [0204-count-primes](https://github.com/bunnybhargavi/Leetcode/tree/master/0204-count-primes) |
+| [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/bunnybhargavi/Leetcode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Binary Search
 |  |
 | ------- |
