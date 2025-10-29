@@ -63,6 +63,7 @@ Let’s grow together — line by line, code by code! 💪
 | [0231-power-of-two](https://github.com/bunnybhargavi/Leetcode/tree/master/0231-power-of-two) |
 | [0319-bulb-switcher](https://github.com/bunnybhargavi/Leetcode/tree/master/0319-bulb-switcher) |
 | [0367-valid-perfect-square](https://github.com/bunnybhargavi/Leetcode/tree/master/0367-valid-perfect-square) |
+| [1674-minimum-operations-to-make-array-equal](https://github.com/bunnybhargavi/Leetcode/tree/master/1674-minimum-operations-to-make-array-equal) |
 | [2383-add-two-integers](https://github.com/bunnybhargavi/Leetcode/tree/master/2383-add-two-integers) |
 | [2556-convert-the-temperature](https://github.com/bunnybhargavi/Leetcode/tree/master/2556-convert-the-temperature) |
 ## Recursion
