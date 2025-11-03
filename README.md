@@ -81,6 +81,7 @@ Let’s grow together — line by line, code by code! 💪
 | [0035-search-insert-position](https://github.com/bunnybhargavi/Leetcode/tree/master/0035-search-insert-position) |
 | [0057-insert-interval](https://github.com/bunnybhargavi/Leetcode/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/bunnybhargavi/Leetcode/tree/master/0066-plus-one) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/bunnybhargavi/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/bunnybhargavi/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/bunnybhargavi/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0204-count-primes](https://github.com/bunnybhargavi/Leetcode/tree/master/0204-count-primes) |
@@ -92,6 +93,7 @@ Let’s grow together — line by line, code by code! 💪
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/bunnybhargavi/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/bunnybhargavi/Leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/bunnybhargavi/Leetcode/tree/master/0069-sqrtx) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/bunnybhargavi/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/bunnybhargavi/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/bunnybhargavi/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0367-valid-perfect-square](https://github.com/bunnybhargavi/Leetcode/tree/master/0367-valid-perfect-square) |
