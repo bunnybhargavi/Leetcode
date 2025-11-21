@@ -76,6 +76,7 @@ Let’s grow together — line by line, code by code! 💪
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/bunnybhargavi/Leetcode/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/bunnybhargavi/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/bunnybhargavi/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/bunnybhargavi/Leetcode/tree/master/0035-search-insert-position) |
@@ -131,4 +132,8 @@ Let’s grow together — line by line, code by code! 💪
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/bunnybhargavi/Leetcode/tree/master/0070-climbing-stairs) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/bunnybhargavi/Leetcode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
