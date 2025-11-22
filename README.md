@@ -88,6 +88,7 @@ Let’s grow together — line by line, code by code! 💪
 | [0204-count-primes](https://github.com/bunnybhargavi/Leetcode/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/bunnybhargavi/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/bunnybhargavi/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [1470-shuffle-the-array](https://github.com/bunnybhargavi/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1580-shuffle-the-array](https://github.com/bunnybhargavi/Leetcode/tree/master/1580-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/bunnybhargavi/Leetcode/tree/master/1929-concatenation-of-array) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/bunnybhargavi/Leetcode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
