@@ -89,6 +89,7 @@ Let’s grow together — line by line, code by code! 💪
 | [0204-count-primes](https://github.com/bunnybhargavi/Leetcode/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/bunnybhargavi/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/bunnybhargavi/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0238-product-of-array-except-self](https://github.com/bunnybhargavi/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [1470-shuffle-the-array](https://github.com/bunnybhargavi/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1580-shuffle-the-array](https://github.com/bunnybhargavi/Leetcode/tree/master/1580-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/bunnybhargavi/Leetcode/tree/master/1929-concatenation-of-array) |
@@ -158,4 +159,8 @@ Let’s grow together — line by line, code by code! 💪
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/bunnybhargavi/Leetcode/tree/master/0219-contains-duplicate-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/bunnybhargavi/Leetcode/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
