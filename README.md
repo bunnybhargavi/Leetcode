@@ -96,6 +96,7 @@ Let’s grow together — line by line, code by code! 💪
 | [0704-binary-search](https://github.com/bunnybhargavi/Leetcode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/bunnybhargavi/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [1470-shuffle-the-array](https://github.com/bunnybhargavi/Leetcode/tree/master/1470-shuffle-the-array) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/bunnybhargavi/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1580-shuffle-the-array](https://github.com/bunnybhargavi/Leetcode/tree/master/1580-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/bunnybhargavi/Leetcode/tree/master/1929-concatenation-of-array) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/bunnybhargavi/Leetcode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -114,6 +115,7 @@ Let’s grow together — line by line, code by code! 💪
 | [0540-single-element-in-a-sorted-array](https://github.com/bunnybhargavi/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/bunnybhargavi/Leetcode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/bunnybhargavi/Leetcode/tree/master/0875-koko-eating-bananas) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/bunnybhargavi/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 ## Enumeration
 |  |
 | ------- |
