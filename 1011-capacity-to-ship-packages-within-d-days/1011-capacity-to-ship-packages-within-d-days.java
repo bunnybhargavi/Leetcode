@@ -29,9 +29,9 @@ class Solution {
             }else{
                 day++;
                 load = arr[i];
-                if(day > d) return false;
             }
         }
+        if(day > d) return false;
         return true;
     }
 }
