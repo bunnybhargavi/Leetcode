@@ -142,6 +142,7 @@ Let’s grow together — line by line, code by code! 💪
 | ------- |
 | [0049-group-anagrams](https://github.com/bunnybhargavi/Leetcode/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/bunnybhargavi/Leetcode/tree/master/0067-add-binary) |
+| [0151-reverse-words-in-a-string](https://github.com/bunnybhargavi/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/bunnybhargavi/Leetcode/tree/master/0242-valid-anagram) |
 | [1021-remove-outermost-parentheses](https://github.com/bunnybhargavi/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 ## Bit Manipulation
@@ -208,4 +209,8 @@ Let’s grow together — line by line, code by code! 💪
 |  |
 | ------- |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/bunnybhargavi/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+## Two Pointers
+|  |
+| ------- |
+| [0151-reverse-words-in-a-string](https://github.com/bunnybhargavi/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 <!---LeetCode Topics End-->
