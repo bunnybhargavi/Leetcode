@@ -64,6 +64,7 @@ Let’s grow together — line by line, code by code! 💪
 | [0319-bulb-switcher](https://github.com/bunnybhargavi/Leetcode/tree/master/0319-bulb-switcher) |
 | [0367-valid-perfect-square](https://github.com/bunnybhargavi/Leetcode/tree/master/0367-valid-perfect-square) |
 | [1674-minimum-operations-to-make-array-equal](https://github.com/bunnybhargavi/Leetcode/tree/master/1674-minimum-operations-to-make-array-equal) |
+| [1903-largest-odd-number-in-string](https://github.com/bunnybhargavi/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2383-add-two-integers](https://github.com/bunnybhargavi/Leetcode/tree/master/2383-add-two-integers) |
 | [2556-convert-the-temperature](https://github.com/bunnybhargavi/Leetcode/tree/master/2556-convert-the-temperature) |
 | [3830-find-closest-person](https://github.com/bunnybhargavi/Leetcode/tree/master/3830-find-closest-person) |
@@ -145,6 +146,7 @@ Let’s grow together — line by line, code by code! 💪
 | [0151-reverse-words-in-a-string](https://github.com/bunnybhargavi/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/bunnybhargavi/Leetcode/tree/master/0242-valid-anagram) |
 | [1021-remove-outermost-parentheses](https://github.com/bunnybhargavi/Leetcode/tree/master/1021-remove-outermost-parentheses) |
+| [1903-largest-odd-number-in-string](https://github.com/bunnybhargavi/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -213,4 +215,8 @@ Let’s grow together — line by line, code by code! 💪
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/bunnybhargavi/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+## Greedy
+|  |
+| ------- |
+| [1903-largest-odd-number-in-string](https://github.com/bunnybhargavi/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
