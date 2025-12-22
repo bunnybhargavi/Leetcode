@@ -7,7 +7,7 @@ var map = function(arr, fn) {
     let n = arr.length;
     let res = [];
     for(let i=0; i<n;i++){
-        res.push(fn(arr[i],i));
+        res[i] = fn(arr[i],i);
     }
     return res;
 };
