@@ -1,19 +1,28 @@
 class Solution {
     public int[] findRightInterval(int[][] intervals) {
         int n = intervals.length;
-        if(n <= 1 && intervals[0][0] != intervals[0][1]) return new int[]{-1};
         int[] res = new int[n];
+        int[][] start = new int[n][2];
+        for(int i=0; i<n;i++){
+            start[i][0] = intervals[i][0];
+            start[i][1] = i;
+        }
+        Arrays.sort(start,(a,b) -> Integer.compare(a[0],b[0]));
         for(int i=0; i<n;i++){
             int tar = intervals[i][1];
-            int minstart = Integer.MAX_VALUE;
-            int minidx = -1;
-            for(int j =0;j<n;j++){
-                if(intervals[j][0] >= tar && intervals[j][0] < minstart){
-                    minstart = intervals[j][0];
-                    minidx = j;
+            int l =0;
+            int r = n-1;
+            int idx = -1;
+            while(l <= r){
+                int mid = l+(r-l)/2;
+                if(start[mid][0] >= tar){
+                    idx = start[mid][1];
+                    r = mid-1;
+                }else{
+                    l = mid +1;
                 }
             }
-            res[i] = minidx;
+            res[i] = idx;
         }
         return res;
     }
