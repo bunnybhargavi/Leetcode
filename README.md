@@ -95,6 +95,7 @@ Let’s grow together — line by line, code by code! 💪
 | [0217-contains-duplicate](https://github.com/bunnybhargavi/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/bunnybhargavi/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/bunnybhargavi/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0436-find-right-interval](https://github.com/bunnybhargavi/Leetcode/tree/master/0436-find-right-interval) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/bunnybhargavi/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/bunnybhargavi/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0645-set-mismatch](https://github.com/bunnybhargavi/Leetcode/tree/master/0645-set-mismatch) |
@@ -124,6 +125,7 @@ Let’s grow together — line by line, code by code! 💪
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/bunnybhargavi/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/bunnybhargavi/Leetcode/tree/master/0162-find-peak-element) |
 | [0367-valid-perfect-square](https://github.com/bunnybhargavi/Leetcode/tree/master/0367-valid-perfect-square) |
+| [0436-find-right-interval](https://github.com/bunnybhargavi/Leetcode/tree/master/0436-find-right-interval) |
 | [0540-single-element-in-a-sorted-array](https://github.com/bunnybhargavi/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/bunnybhargavi/Leetcode/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/bunnybhargavi/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -195,6 +197,7 @@ Let’s grow together — line by line, code by code! 💪
 | [0049-group-anagrams](https://github.com/bunnybhargavi/Leetcode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/bunnybhargavi/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/bunnybhargavi/Leetcode/tree/master/0242-valid-anagram) |
+| [0436-find-right-interval](https://github.com/bunnybhargavi/Leetcode/tree/master/0436-find-right-interval) |
 | [0645-set-mismatch](https://github.com/bunnybhargavi/Leetcode/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/bunnybhargavi/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Sliding Window
