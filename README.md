@@ -54,6 +54,7 @@ Let’s grow together — line by line, code by code! 💪
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/bunnybhargavi/Leetcode/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/bunnybhargavi/Leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/bunnybhargavi/Leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/bunnybhargavi/Leetcode/tree/master/0067-add-binary) |
@@ -149,6 +150,7 @@ Let’s grow together — line by line, code by code! 💪
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/bunnybhargavi/Leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/bunnybhargavi/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/bunnybhargavi/Leetcode/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/bunnybhargavi/Leetcode/tree/master/0067-add-binary) |
@@ -189,6 +191,7 @@ Let’s grow together — line by line, code by code! 💪
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/bunnybhargavi/Leetcode/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/bunnybhargavi/Leetcode/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/bunnybhargavi/Leetcode/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/bunnybhargavi/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/bunnybhargavi/Leetcode/tree/master/0217-contains-duplicate) |
