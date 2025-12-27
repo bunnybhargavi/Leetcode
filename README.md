@@ -159,6 +159,7 @@ Let’s grow together — line by line, code by code! 💪
 | [0796-rotate-string](https://github.com/bunnybhargavi/Leetcode/tree/master/0796-rotate-string) |
 | [0981-time-based-key-value-store](https://github.com/bunnybhargavi/Leetcode/tree/master/0981-time-based-key-value-store) |
 | [1021-remove-outermost-parentheses](https://github.com/bunnybhargavi/Leetcode/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/bunnybhargavi/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/bunnybhargavi/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## Bit Manipulation
 |  |
@@ -228,6 +229,7 @@ Let’s grow together — line by line, code by code! 💪
 | [0150-evaluate-reverse-polish-notation](https://github.com/bunnybhargavi/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1021-remove-outermost-parentheses](https://github.com/bunnybhargavi/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1441-build-an-array-with-stack-operations](https://github.com/bunnybhargavi/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/bunnybhargavi/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Matrix
 |  |
 | ------- |
