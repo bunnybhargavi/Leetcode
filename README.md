@@ -127,6 +127,7 @@ Let’s grow together — line by line, code by code! 💪
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/bunnybhargavi/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/bunnybhargavi/Leetcode/tree/master/0162-find-peak-element) |
 | [0367-valid-perfect-square](https://github.com/bunnybhargavi/Leetcode/tree/master/0367-valid-perfect-square) |
+| [0374-guess-number-higher-or-lower](https://github.com/bunnybhargavi/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0436-find-right-interval](https://github.com/bunnybhargavi/Leetcode/tree/master/0436-find-right-interval) |
 | [0540-single-element-in-a-sorted-array](https://github.com/bunnybhargavi/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/bunnybhargavi/Leetcode/tree/master/0704-binary-search) |
@@ -267,4 +268,8 @@ Let’s grow together — line by line, code by code! 💪
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/bunnybhargavi/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/bunnybhargavi/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
