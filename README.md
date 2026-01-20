@@ -283,4 +283,8 @@ Let’s grow together — line by line, code by code! 💪
 | ------- |
 | [0278-first-bad-version](https://github.com/bunnybhargavi/Leetcode/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/bunnybhargavi/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/bunnybhargavi/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
