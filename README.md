@@ -82,6 +82,7 @@ Let’s grow together — line by line, code by code! 💪
 | ------- |
 | [0001-two-sum](https://github.com/bunnybhargavi/Leetcode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/bunnybhargavi/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0027-remove-element](https://github.com/bunnybhargavi/Leetcode/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/bunnybhargavi/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/bunnybhargavi/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/bunnybhargavi/Leetcode/tree/master/0035-search-insert-position) |
@@ -252,6 +253,7 @@ Let’s grow together — line by line, code by code! 💪
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/bunnybhargavi/Leetcode/tree/master/0027-remove-element) |
 | [0151-reverse-words-in-a-string](https://github.com/bunnybhargavi/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0876-middle-of-the-linked-list](https://github.com/bunnybhargavi/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Greedy
