@@ -106,6 +106,7 @@ Let’s grow together — line by line, code by code! 💪
 | [0238-product-of-array-except-self](https://github.com/bunnybhargavi/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0275-h-index-ii](https://github.com/bunnybhargavi/Leetcode/tree/master/0275-h-index-ii) |
 | [0436-find-right-interval](https://github.com/bunnybhargavi/Leetcode/tree/master/0436-find-right-interval) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/bunnybhargavi/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/bunnybhargavi/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/bunnybhargavi/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0645-set-mismatch](https://github.com/bunnybhargavi/Leetcode/tree/master/0645-set-mismatch) |
@@ -220,6 +221,7 @@ Let’s grow together — line by line, code by code! 💪
 | [0217-contains-duplicate](https://github.com/bunnybhargavi/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/bunnybhargavi/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/bunnybhargavi/Leetcode/tree/master/0242-valid-anagram) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/bunnybhargavi/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/bunnybhargavi/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/bunnybhargavi/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0645-set-mismatch](https://github.com/bunnybhargavi/Leetcode/tree/master/0645-set-mismatch) |
@@ -234,6 +236,7 @@ Let’s grow together — line by line, code by code! 💪
 | [0217-contains-duplicate](https://github.com/bunnybhargavi/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/bunnybhargavi/Leetcode/tree/master/0242-valid-anagram) |
 | [0436-find-right-interval](https://github.com/bunnybhargavi/Leetcode/tree/master/0436-find-right-interval) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/bunnybhargavi/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/bunnybhargavi/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0645-set-mismatch](https://github.com/bunnybhargavi/Leetcode/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/bunnybhargavi/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
