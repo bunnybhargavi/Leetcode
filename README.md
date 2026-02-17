@@ -65,6 +65,7 @@ Let’s grow together — line by line, code by code! 💪
 | [0189-rotate-array](https://github.com/bunnybhargavi/Leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/bunnybhargavi/Leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/bunnybhargavi/Leetcode/tree/master/0231-power-of-two) |
+| [0263-ugly-number](https://github.com/bunnybhargavi/Leetcode/tree/master/0263-ugly-number) |
 | [0319-bulb-switcher](https://github.com/bunnybhargavi/Leetcode/tree/master/0319-bulb-switcher) |
 | [0367-valid-perfect-square](https://github.com/bunnybhargavi/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/bunnybhargavi/Leetcode/tree/master/0441-arranging-coins) |
