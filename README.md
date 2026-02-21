@@ -73,6 +73,7 @@ Let’s grow together — line by line, code by code! 💪
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/bunnybhargavi/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1674-minimum-operations-to-make-array-equal](https://github.com/bunnybhargavi/Leetcode/tree/master/1674-minimum-operations-to-make-array-equal) |
 | [1903-largest-odd-number-in-string](https://github.com/bunnybhargavi/Leetcode/tree/master/1903-largest-odd-number-in-string) |
+| [1922-count-good-numbers](https://github.com/bunnybhargavi/Leetcode/tree/master/1922-count-good-numbers) |
 | [2383-add-two-integers](https://github.com/bunnybhargavi/Leetcode/tree/master/2383-add-two-integers) |
 | [2556-convert-the-temperature](https://github.com/bunnybhargavi/Leetcode/tree/master/2556-convert-the-temperature) |
 | [3830-find-closest-person](https://github.com/bunnybhargavi/Leetcode/tree/master/3830-find-closest-person) |
@@ -85,6 +86,7 @@ Let’s grow together — line by line, code by code! 💪
 | [0206-reverse-linked-list](https://github.com/bunnybhargavi/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/bunnybhargavi/Leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/bunnybhargavi/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [1922-count-good-numbers](https://github.com/bunnybhargavi/Leetcode/tree/master/1922-count-good-numbers) |
 ## Array
 |  |
 | ------- |
