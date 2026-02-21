@@ -70,6 +70,7 @@ Let’s grow together — line by line, code by code! 💪
 | [0319-bulb-switcher](https://github.com/bunnybhargavi/Leetcode/tree/master/0319-bulb-switcher) |
 | [0367-valid-perfect-square](https://github.com/bunnybhargavi/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/bunnybhargavi/Leetcode/tree/master/0441-arranging-coins) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/bunnybhargavi/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1674-minimum-operations-to-make-array-equal](https://github.com/bunnybhargavi/Leetcode/tree/master/1674-minimum-operations-to-make-array-equal) |
 | [1903-largest-odd-number-in-string](https://github.com/bunnybhargavi/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2383-add-two-integers](https://github.com/bunnybhargavi/Leetcode/tree/master/2383-add-two-integers) |
@@ -200,6 +201,7 @@ Let’s grow together — line by line, code by code! 💪
 | [0231-power-of-two](https://github.com/bunnybhargavi/Leetcode/tree/master/0231-power-of-two) |
 | [0645-set-mismatch](https://github.com/bunnybhargavi/Leetcode/tree/master/0645-set-mismatch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/bunnybhargavi/Leetcode/tree/master/0693-binary-number-with-alternating-bits) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/bunnybhargavi/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 ## Simulation
 |  |
 | ------- |
