@@ -113,6 +113,7 @@ Let’s grow together — line by line, code by code! 💪
 | [0219-contains-duplicate-ii](https://github.com/bunnybhargavi/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/bunnybhargavi/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0275-h-index-ii](https://github.com/bunnybhargavi/Leetcode/tree/master/0275-h-index-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/bunnybhargavi/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0436-find-right-interval](https://github.com/bunnybhargavi/Leetcode/tree/master/0436-find-right-interval) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/bunnybhargavi/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/bunnybhargavi/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -152,6 +153,7 @@ Let’s grow together — line by line, code by code! 💪
 | [0162-find-peak-element](https://github.com/bunnybhargavi/Leetcode/tree/master/0162-find-peak-element) |
 | [0275-h-index-ii](https://github.com/bunnybhargavi/Leetcode/tree/master/0275-h-index-ii) |
 | [0278-first-bad-version](https://github.com/bunnybhargavi/Leetcode/tree/master/0278-first-bad-version) |
+| [0349-intersection-of-two-arrays](https://github.com/bunnybhargavi/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/bunnybhargavi/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/bunnybhargavi/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0436-find-right-interval](https://github.com/bunnybhargavi/Leetcode/tree/master/0436-find-right-interval) |
@@ -240,6 +242,7 @@ Let’s grow together — line by line, code by code! 💪
 | [0217-contains-duplicate](https://github.com/bunnybhargavi/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/bunnybhargavi/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/bunnybhargavi/Leetcode/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/bunnybhargavi/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/bunnybhargavi/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/bunnybhargavi/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/bunnybhargavi/Leetcode/tree/master/0451-sort-characters-by-frequency) |
@@ -256,6 +259,7 @@ Let’s grow together — line by line, code by code! 💪
 | [0148-sort-list](https://github.com/bunnybhargavi/Leetcode/tree/master/0148-sort-list) |
 | [0217-contains-duplicate](https://github.com/bunnybhargavi/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/bunnybhargavi/Leetcode/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/bunnybhargavi/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0436-find-right-interval](https://github.com/bunnybhargavi/Leetcode/tree/master/0436-find-right-interval) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/bunnybhargavi/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/bunnybhargavi/Leetcode/tree/master/0451-sort-characters-by-frequency) |
@@ -304,6 +308,7 @@ Let’s grow together — line by line, code by code! 💪
 | [0189-rotate-array](https://github.com/bunnybhargavi/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/bunnybhargavi/Leetcode/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/bunnybhargavi/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0349-intersection-of-two-arrays](https://github.com/bunnybhargavi/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0876-middle-of-the-linked-list](https://github.com/bunnybhargavi/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/bunnybhargavi/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Greedy
