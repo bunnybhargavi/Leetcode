@@ -118,6 +118,7 @@ Let’s grow together — line by line, code by code! 💪
 | [0442-find-all-duplicates-in-an-array](https://github.com/bunnybhargavi/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/bunnybhargavi/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/bunnybhargavi/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0560-subarray-sum-equals-k](https://github.com/bunnybhargavi/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/bunnybhargavi/Leetcode/tree/master/0575-distribute-candies) |
 | [0645-set-mismatch](https://github.com/bunnybhargavi/Leetcode/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/bunnybhargavi/Leetcode/tree/master/0704-binary-search) |
@@ -249,6 +250,7 @@ Let’s grow together — line by line, code by code! 💪
 | [0442-find-all-duplicates-in-an-array](https://github.com/bunnybhargavi/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/bunnybhargavi/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/bunnybhargavi/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0560-subarray-sum-equals-k](https://github.com/bunnybhargavi/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/bunnybhargavi/Leetcode/tree/master/0575-distribute-candies) |
 | [0645-set-mismatch](https://github.com/bunnybhargavi/Leetcode/tree/master/0645-set-mismatch) |
 | [0981-time-based-key-value-store](https://github.com/bunnybhargavi/Leetcode/tree/master/0981-time-based-key-value-store) |
@@ -280,6 +282,7 @@ Let’s grow together — line by line, code by code! 💪
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/bunnybhargavi/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/bunnybhargavi/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 ## Counting Sort
 |  |
 | ------- |
