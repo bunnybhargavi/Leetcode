@@ -88,6 +88,7 @@ Let’s grow together — line by line, code by code! 💪
 | [0206-reverse-linked-list](https://github.com/bunnybhargavi/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/bunnybhargavi/Leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/bunnybhargavi/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/bunnybhargavi/Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1922-count-good-numbers](https://github.com/bunnybhargavi/Leetcode/tree/master/1922-count-good-numbers) |
 ## Array
 |  |
@@ -201,6 +202,7 @@ Let’s grow together — line by line, code by code! 💪
 | [0981-time-based-key-value-store](https://github.com/bunnybhargavi/Leetcode/tree/master/0981-time-based-key-value-store) |
 | [1021-remove-outermost-parentheses](https://github.com/bunnybhargavi/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/bunnybhargavi/Leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/bunnybhargavi/Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/bunnybhargavi/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/bunnybhargavi/Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1903-largest-odd-number-in-string](https://github.com/bunnybhargavi/Leetcode/tree/master/1903-largest-odd-number-in-string) |
@@ -225,6 +227,7 @@ Let’s grow together — line by line, code by code! 💪
 | [0067-add-binary](https://github.com/bunnybhargavi/Leetcode/tree/master/0067-add-binary) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/bunnybhargavi/Leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1441-build-an-array-with-stack-operations](https://github.com/bunnybhargavi/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/bunnybhargavi/Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/bunnybhargavi/Leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1929-concatenation-of-array](https://github.com/bunnybhargavi/Leetcode/tree/master/1929-concatenation-of-array) |
 | [3379-transformed-array](https://github.com/bunnybhargavi/Leetcode/tree/master/3379-transformed-array) |
