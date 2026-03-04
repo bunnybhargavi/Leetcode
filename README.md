@@ -143,6 +143,7 @@ Let’s grow together — line by line, code by code! 💪
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/bunnybhargavi/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/bunnybhargavi/Leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1580-shuffle-the-array](https://github.com/bunnybhargavi/Leetcode/tree/master/1580-shuffle-the-array) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/bunnybhargavi/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1929-concatenation-of-array](https://github.com/bunnybhargavi/Leetcode/tree/master/1929-concatenation-of-array) |
 | [3379-transformed-array](https://github.com/bunnybhargavi/Leetcode/tree/master/3379-transformed-array) |
 | [3634-minimum-removals-to-balance-array](https://github.com/bunnybhargavi/Leetcode/tree/master/3634-minimum-removals-to-balance-array) |
@@ -321,6 +322,7 @@ Let’s grow together — line by line, code by code! 💪
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/bunnybhargavi/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/bunnybhargavi/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/bunnybhargavi/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 ## Two Pointers
 |  |
 | ------- |
