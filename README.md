@@ -209,6 +209,7 @@ Let’s grow together — line by line, code by code! 💪
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/bunnybhargavi/Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/bunnybhargavi/Leetcode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/bunnybhargavi/Leetcode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/bunnybhargavi/Leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1903-largest-odd-number-in-string](https://github.com/bunnybhargavi/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [3713-longest-balanced-substring-i](https://github.com/bunnybhargavi/Leetcode/tree/master/3713-longest-balanced-substring-i) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/bunnybhargavi/Leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
@@ -244,6 +245,7 @@ Let’s grow together — line by line, code by code! 💪
 | ------- |
 | [0070-climbing-stairs](https://github.com/bunnybhargavi/Leetcode/tree/master/0070-climbing-stairs) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/bunnybhargavi/Leetcode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/bunnybhargavi/Leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 ## Memoization
 |  |
 | ------- |
@@ -296,6 +298,7 @@ Let’s grow together — line by line, code by code! 💪
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/bunnybhargavi/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/bunnybhargavi/Leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [3634-minimum-removals-to-balance-array](https://github.com/bunnybhargavi/Leetcode/tree/master/3634-minimum-removals-to-balance-array) |
 ## Prefix Sum
 |  |
