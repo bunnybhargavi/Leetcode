@@ -147,6 +147,7 @@ Let’s grow together — line by line, code by code! 💪
 | [1582-special-positions-in-a-binary-matrix](https://github.com/bunnybhargavi/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1929-concatenation-of-array](https://github.com/bunnybhargavi/Leetcode/tree/master/1929-concatenation-of-array) |
 | [1980-find-unique-binary-string](https://github.com/bunnybhargavi/Leetcode/tree/master/1980-find-unique-binary-string) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/bunnybhargavi/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3379-transformed-array](https://github.com/bunnybhargavi/Leetcode/tree/master/3379-transformed-array) |
 | [3634-minimum-removals-to-balance-array](https://github.com/bunnybhargavi/Leetcode/tree/master/3634-minimum-removals-to-balance-array) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/bunnybhargavi/Leetcode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -214,6 +215,7 @@ Let’s grow together — line by line, code by code! 💪
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/bunnybhargavi/Leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1903-largest-odd-number-in-string](https://github.com/bunnybhargavi/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1980-find-unique-binary-string](https://github.com/bunnybhargavi/Leetcode/tree/master/1980-find-unique-binary-string) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/bunnybhargavi/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3713-longest-balanced-substring-i](https://github.com/bunnybhargavi/Leetcode/tree/master/3713-longest-balanced-substring-i) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/bunnybhargavi/Leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Bit Manipulation
@@ -238,6 +240,7 @@ Let’s grow together — line by line, code by code! 💪
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/bunnybhargavi/Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/bunnybhargavi/Leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1929-concatenation-of-array](https://github.com/bunnybhargavi/Leetcode/tree/master/1929-concatenation-of-array) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/bunnybhargavi/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3379-transformed-array](https://github.com/bunnybhargavi/Leetcode/tree/master/3379-transformed-array) |
 ## Brainteaser
 |  |
