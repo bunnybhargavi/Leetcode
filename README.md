@@ -199,6 +199,7 @@ Let’s grow together — line by line, code by code! 💪
 | [0008-string-to-integer-atoi](https://github.com/bunnybhargavi/Leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/bunnybhargavi/Leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/bunnybhargavi/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/bunnybhargavi/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/bunnybhargavi/Leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/bunnybhargavi/Leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/bunnybhargavi/Leetcode/tree/master/0067-add-binary) |
@@ -349,6 +350,7 @@ Let’s grow together — line by line, code by code! 💪
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/bunnybhargavi/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/bunnybhargavi/Leetcode/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/bunnybhargavi/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/bunnybhargavi/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0141-linked-list-cycle](https://github.com/bunnybhargavi/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/bunnybhargavi/Leetcode/tree/master/0142-linked-list-cycle-ii) |
@@ -374,6 +376,7 @@ Let’s grow together — line by line, code by code! 💪
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/bunnybhargavi/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0796-rotate-string](https://github.com/bunnybhargavi/Leetcode/tree/master/0796-rotate-string) |
 ## Design
 |  |
