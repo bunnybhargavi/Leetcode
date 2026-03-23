@@ -207,6 +207,7 @@ Let’s grow together — line by line, code by code! 💪
 | [0205-isomorphic-strings](https://github.com/bunnybhargavi/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/bunnybhargavi/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/bunnybhargavi/Leetcode/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/bunnybhargavi/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/bunnybhargavi/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/bunnybhargavi/Leetcode/tree/master/0796-rotate-string) |
 | [0981-time-based-key-value-store](https://github.com/bunnybhargavi/Leetcode/tree/master/0981-time-based-key-value-store) |
@@ -363,6 +364,7 @@ Let’s grow together — line by line, code by code! 💪
 | [0234-palindrome-linked-list](https://github.com/bunnybhargavi/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/bunnybhargavi/Leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/bunnybhargavi/Leetcode/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/bunnybhargavi/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/bunnybhargavi/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0876-middle-of-the-linked-list](https://github.com/bunnybhargavi/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/bunnybhargavi/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
