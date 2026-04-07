@@ -130,6 +130,7 @@ Let’s grow together — line by line, code by code! 💪
 | [0645-set-mismatch](https://github.com/bunnybhargavi/Leetcode/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/bunnybhargavi/Leetcode/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/bunnybhargavi/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0746-min-cost-climbing-stairs](https://github.com/bunnybhargavi/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/bunnybhargavi/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/bunnybhargavi/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0912-sort-an-array](https://github.com/bunnybhargavi/Leetcode/tree/master/0912-sort-an-array) |
@@ -262,6 +263,7 @@ Let’s grow together — line by line, code by code! 💪
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/bunnybhargavi/Leetcode/tree/master/0070-climbing-stairs) |
+| [0746-min-cost-climbing-stairs](https://github.com/bunnybhargavi/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/bunnybhargavi/Leetcode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/bunnybhargavi/Leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 ## Memoization
