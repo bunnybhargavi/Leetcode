@@ -156,6 +156,7 @@ Let’s grow together — line by line, code by code! 💪
 | [2798-number-of-employees-who-met-the-target](https://github.com/bunnybhargavi/Leetcode/tree/master/2798-number-of-employees-who-met-the-target) |
 | [3379-transformed-array](https://github.com/bunnybhargavi/Leetcode/tree/master/3379-transformed-array) |
 | [3634-minimum-removals-to-balance-array](https://github.com/bunnybhargavi/Leetcode/tree/master/3634-minimum-removals-to-balance-array) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/bunnybhargavi/Leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3668-restore-finishing-order](https://github.com/bunnybhargavi/Leetcode/tree/master/3668-restore-finishing-order) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/bunnybhargavi/Leetcode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Binary Search
@@ -256,6 +257,7 @@ Let’s grow together — line by line, code by code! 💪
 | [1929-concatenation-of-array](https://github.com/bunnybhargavi/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/bunnybhargavi/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3379-transformed-array](https://github.com/bunnybhargavi/Leetcode/tree/master/3379-transformed-array) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/bunnybhargavi/Leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Brainteaser
 |  |
 | ------- |
@@ -433,6 +435,7 @@ Let’s grow together — line by line, code by code! 💪
 | [0148-sort-list](https://github.com/bunnybhargavi/Leetcode/tree/master/0148-sort-list) |
 | [0190-reverse-bits](https://github.com/bunnybhargavi/Leetcode/tree/master/0190-reverse-bits) |
 | [0912-sort-an-array](https://github.com/bunnybhargavi/Leetcode/tree/master/0912-sort-an-array) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/bunnybhargavi/Leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Merge Sort
 |  |
 | ------- |
