@@ -157,6 +157,7 @@ Let’s grow together — line by line, code by code! 💪
 | [1929-concatenation-of-array](https://github.com/bunnybhargavi/Leetcode/tree/master/1929-concatenation-of-array) |
 | [1980-find-unique-binary-string](https://github.com/bunnybhargavi/Leetcode/tree/master/1980-find-unique-binary-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/bunnybhargavi/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/bunnybhargavi/Leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/bunnybhargavi/Leetcode/tree/master/2798-number-of-employees-who-met-the-target) |
 | [3379-transformed-array](https://github.com/bunnybhargavi/Leetcode/tree/master/3379-transformed-array) |
 | [3634-minimum-removals-to-balance-array](https://github.com/bunnybhargavi/Leetcode/tree/master/3634-minimum-removals-to-balance-array) |
@@ -395,6 +396,7 @@ Let’s grow together — line by line, code by code! 💪
 | ------- |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/bunnybhargavi/Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1903-largest-odd-number-in-string](https://github.com/bunnybhargavi/Leetcode/tree/master/1903-largest-odd-number-in-string) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/bunnybhargavi/Leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 ## Trie
 |  |
 | ------- |
