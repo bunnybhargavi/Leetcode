@@ -56,6 +56,7 @@ Let’s grow together — line by line, code by code! 💪
 | ------- |
 | [0002-add-two-numbers](https://github.com/bunnybhargavi/Leetcode/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/bunnybhargavi/Leetcode/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/bunnybhargavi/Leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/bunnybhargavi/Leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/bunnybhargavi/Leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/bunnybhargavi/Leetcode/tree/master/0067-add-binary) |
@@ -102,6 +103,7 @@ Let’s grow together — line by line, code by code! 💪
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/bunnybhargavi/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/bunnybhargavi/Leetcode/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/bunnybhargavi/Leetcode/tree/master/0041-first-missing-positive) |
+| [0048-rotate-image](https://github.com/bunnybhargavi/Leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/bunnybhargavi/Leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/bunnybhargavi/Leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/bunnybhargavi/Leetcode/tree/master/0057-insert-interval) |
@@ -371,6 +373,7 @@ Let’s grow together — line by line, code by code! 💪
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/bunnybhargavi/Leetcode/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/bunnybhargavi/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/bunnybhargavi/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/bunnybhargavi/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
