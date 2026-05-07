@@ -166,6 +166,7 @@ Let’s grow together — line by line, code by code! 💪
 | [3379-transformed-array](https://github.com/bunnybhargavi/Leetcode/tree/master/3379-transformed-array) |
 | [3634-minimum-removals-to-balance-array](https://github.com/bunnybhargavi/Leetcode/tree/master/3634-minimum-removals-to-balance-array) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/bunnybhargavi/Leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3660-jump-game-ix](https://github.com/bunnybhargavi/Leetcode/tree/master/3660-jump-game-ix) |
 | [3668-restore-finishing-order](https://github.com/bunnybhargavi/Leetcode/tree/master/3668-restore-finishing-order) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/bunnybhargavi/Leetcode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/bunnybhargavi/Leetcode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
@@ -285,6 +286,7 @@ Let’s grow together — line by line, code by code! 💪
 | [0746-min-cost-climbing-stairs](https://github.com/bunnybhargavi/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/bunnybhargavi/Leetcode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/bunnybhargavi/Leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [3660-jump-game-ix](https://github.com/bunnybhargavi/Leetcode/tree/master/3660-jump-game-ix) |
 ## Memoization
 |  |
 | ------- |
