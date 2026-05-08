@@ -109,6 +109,7 @@ Let’s grow together — line by line, code by code! 💪
 | [0057-insert-interval](https://github.com/bunnybhargavi/Leetcode/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/bunnybhargavi/Leetcode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/bunnybhargavi/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/bunnybhargavi/Leetcode/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/bunnybhargavi/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/bunnybhargavi/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/bunnybhargavi/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -251,6 +252,7 @@ Let’s grow together — line by line, code by code! 💪
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/bunnybhargavi/Leetcode/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/bunnybhargavi/Leetcode/tree/master/0078-subsets) |
 | [0190-reverse-bits](https://github.com/bunnybhargavi/Leetcode/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/bunnybhargavi/Leetcode/tree/master/0231-power-of-two) |
 | [0645-set-mismatch](https://github.com/bunnybhargavi/Leetcode/tree/master/0645-set-mismatch) |
@@ -470,6 +472,7 @@ Let’s grow together — line by line, code by code! 💪
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/bunnybhargavi/Leetcode/tree/master/0078-subsets) |
 | [1980-find-unique-binary-string](https://github.com/bunnybhargavi/Leetcode/tree/master/1980-find-unique-binary-string) |
 ## Radix Sort
 |  |
