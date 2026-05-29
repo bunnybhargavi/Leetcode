@@ -79,6 +79,7 @@ Let’s grow together — line by line, code by code! 💪
 | [1922-count-good-numbers](https://github.com/bunnybhargavi/Leetcode/tree/master/1922-count-good-numbers) |
 | [2383-add-two-integers](https://github.com/bunnybhargavi/Leetcode/tree/master/2383-add-two-integers) |
 | [2556-convert-the-temperature](https://github.com/bunnybhargavi/Leetcode/tree/master/2556-convert-the-temperature) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/bunnybhargavi/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/bunnybhargavi/Leetcode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/bunnybhargavi/Leetcode/tree/master/3783-mirror-distance-of-an-integer) |
 | [3830-find-closest-person](https://github.com/bunnybhargavi/Leetcode/tree/master/3830-find-closest-person) |
@@ -176,6 +177,7 @@ Let’s grow together — line by line, code by code! 💪
 | [2784-check-if-array-is-good](https://github.com/bunnybhargavi/Leetcode/tree/master/2784-check-if-array-is-good) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/bunnybhargavi/Leetcode/tree/master/2798-number-of-employees-who-met-the-target) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/bunnybhargavi/Leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/bunnybhargavi/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3379-transformed-array](https://github.com/bunnybhargavi/Leetcode/tree/master/3379-transformed-array) |
 | [3634-minimum-removals-to-balance-array](https://github.com/bunnybhargavi/Leetcode/tree/master/3634-minimum-removals-to-balance-array) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/bunnybhargavi/Leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
