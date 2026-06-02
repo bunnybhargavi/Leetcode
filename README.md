@@ -116,6 +116,7 @@ Let’s grow together — line by line, code by code! 💪
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/bunnybhargavi/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/bunnybhargavi/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/bunnybhargavi/Leetcode/tree/master/0090-subsets-ii) |
+| [0118-pascals-triangle](https://github.com/bunnybhargavi/Leetcode/tree/master/0118-pascals-triangle) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/bunnybhargavi/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/bunnybhargavi/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/bunnybhargavi/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -312,6 +313,7 @@ Let’s grow together — line by line, code by code! 💪
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/bunnybhargavi/Leetcode/tree/master/0070-climbing-stairs) |
+| [0118-pascals-triangle](https://github.com/bunnybhargavi/Leetcode/tree/master/0118-pascals-triangle) |
 | [0198-house-robber](https://github.com/bunnybhargavi/Leetcode/tree/master/0198-house-robber) |
 | [0746-min-cost-climbing-stairs](https://github.com/bunnybhargavi/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/bunnybhargavi/Leetcode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
