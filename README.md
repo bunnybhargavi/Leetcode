@@ -437,6 +437,7 @@ Let’s grow together — line by line, code by code! 💪
 | [1021-remove-outermost-parentheses](https://github.com/bunnybhargavi/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1441-build-an-array-with-stack-operations](https://github.com/bunnybhargavi/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/bunnybhargavi/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/bunnybhargavi/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Matrix
 |  |
 | ------- |
@@ -471,6 +472,7 @@ Let’s grow together — line by line, code by code! 💪
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/bunnybhargavi/Leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/bunnybhargavi/Leetcode/tree/master/1861-rotating-the-box) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/bunnybhargavi/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/bunnybhargavi/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/bunnybhargavi/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2540-minimum-common-value](https://github.com/bunnybhargavi/Leetcode/tree/master/2540-minimum-common-value) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/bunnybhargavi/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -532,6 +534,7 @@ Let’s grow together — line by line, code by code! 💪
 | [0328-odd-even-linked-list](https://github.com/bunnybhargavi/Leetcode/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/bunnybhargavi/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/bunnybhargavi/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/bunnybhargavi/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Divide and Conquer
 |  |
 | ------- |
