@@ -267,6 +267,7 @@ Let’s grow together — line by line, code by code! 💪
 | [0796-rotate-string](https://github.com/bunnybhargavi/Leetcode/tree/master/0796-rotate-string) |
 | [0981-time-based-key-value-store](https://github.com/bunnybhargavi/Leetcode/tree/master/0981-time-based-key-value-store) |
 | [1021-remove-outermost-parentheses](https://github.com/bunnybhargavi/Leetcode/tree/master/1021-remove-outermost-parentheses) |
+| [1189-maximum-number-of-balloons](https://github.com/bunnybhargavi/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/bunnybhargavi/Leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/bunnybhargavi/Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/bunnybhargavi/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -372,6 +373,7 @@ Let’s grow together — line by line, code by code! 💪
 | [0974-subarray-sums-divisible-by-k](https://github.com/bunnybhargavi/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0981-time-based-key-value-store](https://github.com/bunnybhargavi/Leetcode/tree/master/0981-time-based-key-value-store) |
 | [1146-snapshot-array](https://github.com/bunnybhargavi/Leetcode/tree/master/1146-snapshot-array) |
+| [1189-maximum-number-of-balloons](https://github.com/bunnybhargavi/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1345-jump-game-iv](https://github.com/bunnybhargavi/Leetcode/tree/master/1345-jump-game-iv) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/bunnybhargavi/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1980-find-unique-binary-string](https://github.com/bunnybhargavi/Leetcode/tree/master/1980-find-unique-binary-string) |
@@ -434,6 +436,7 @@ Let’s grow together — line by line, code by code! 💪
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/bunnybhargavi/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0912-sort-an-array](https://github.com/bunnybhargavi/Leetcode/tree/master/0912-sort-an-array) |
+| [1189-maximum-number-of-balloons](https://github.com/bunnybhargavi/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/bunnybhargavi/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/bunnybhargavi/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1833-maximum-ice-cream-bars](https://github.com/bunnybhargavi/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
