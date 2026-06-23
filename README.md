@@ -253,6 +253,7 @@ Let’s grow together — line by line, code by code! 💪
 | [0008-string-to-integer-atoi](https://github.com/bunnybhargavi/Leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/bunnybhargavi/Leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/bunnybhargavi/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0022-generate-parentheses](https://github.com/bunnybhargavi/Leetcode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/bunnybhargavi/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/bunnybhargavi/Leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/bunnybhargavi/Leetcode/tree/master/0058-length-of-last-word) |
@@ -331,6 +332,7 @@ Let’s grow together — line by line, code by code! 💪
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/bunnybhargavi/Leetcode/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/bunnybhargavi/Leetcode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/bunnybhargavi/Leetcode/tree/master/0118-pascals-triangle) |
 | [0198-house-robber](https://github.com/bunnybhargavi/Leetcode/tree/master/0198-house-robber) |
@@ -567,6 +569,7 @@ Let’s grow together — line by line, code by code! 💪
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/bunnybhargavi/Leetcode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/bunnybhargavi/Leetcode/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/bunnybhargavi/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/bunnybhargavi/Leetcode/tree/master/0090-subsets-ii) |
