@@ -198,6 +198,7 @@ Let’s grow together — line by line, code by code! 💪
 | [3660-jump-game-ix](https://github.com/bunnybhargavi/Leetcode/tree/master/3660-jump-game-ix) |
 | [3668-restore-finishing-order](https://github.com/bunnybhargavi/Leetcode/tree/master/3668-restore-finishing-order) |
 | [3689-maximum-total-subarray-value-i](https://github.com/bunnybhargavi/Leetcode/tree/master/3689-maximum-total-subarray-value-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/bunnybhargavi/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/bunnybhargavi/Leetcode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/bunnybhargavi/Leetcode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3838-weighted-word-mapping](https://github.com/bunnybhargavi/Leetcode/tree/master/3838-weighted-word-mapping) |
@@ -387,6 +388,7 @@ Let’s grow together — line by line, code by code! 💪
 | [3121-count-the-number-of-special-characters-ii](https://github.com/bunnybhargavi/Leetcode/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3668-restore-finishing-order](https://github.com/bunnybhargavi/Leetcode/tree/master/3668-restore-finishing-order) |
 | [3713-longest-balanced-substring-i](https://github.com/bunnybhargavi/Leetcode/tree/master/3713-longest-balanced-substring-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/bunnybhargavi/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/bunnybhargavi/Leetcode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/bunnybhargavi/Leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/bunnybhargavi/Leetcode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
@@ -433,6 +435,7 @@ Let’s grow together — line by line, code by code! 💪
 | [1732-find-the-highest-altitude](https://github.com/bunnybhargavi/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1871-jump-game-vii](https://github.com/bunnybhargavi/Leetcode/tree/master/1871-jump-game-vii) |
 | [2574-left-and-right-sum-differences](https://github.com/bunnybhargavi/Leetcode/tree/master/2574-left-and-right-sum-differences) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/bunnybhargavi/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Counting Sort
 |  |
 | ------- |
@@ -444,6 +447,7 @@ Let’s grow together — line by line, code by code! 💪
 | [1833-maximum-ice-cream-bars](https://github.com/bunnybhargavi/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [2833-furthest-point-from-origin](https://github.com/bunnybhargavi/Leetcode/tree/master/2833-furthest-point-from-origin) |
 | [3713-longest-balanced-substring-i](https://github.com/bunnybhargavi/Leetcode/tree/master/3713-longest-balanced-substring-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/bunnybhargavi/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Stack
 |  |
 | ------- |
@@ -561,11 +565,13 @@ Let’s grow together — line by line, code by code! 💪
 | [0190-reverse-bits](https://github.com/bunnybhargavi/Leetcode/tree/master/0190-reverse-bits) |
 | [0912-sort-an-array](https://github.com/bunnybhargavi/Leetcode/tree/master/0912-sort-an-array) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/bunnybhargavi/Leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/bunnybhargavi/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Merge Sort
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/bunnybhargavi/Leetcode/tree/master/0148-sort-list) |
 | [0912-sort-an-array](https://github.com/bunnybhargavi/Leetcode/tree/master/0912-sort-an-array) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/bunnybhargavi/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -597,4 +603,8 @@ Let’s grow together — line by line, code by code! 💪
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/bunnybhargavi/Leetcode/tree/master/0100-same-tree) |
+## Segment Tree
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/bunnybhargavi/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 <!---LeetCode Topics End-->
