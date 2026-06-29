@@ -176,6 +176,7 @@ Let’s grow together — line by line, code by code! 💪
 | [1861-rotating-the-box](https://github.com/bunnybhargavi/Leetcode/tree/master/1861-rotating-the-box) |
 | [1914-cyclically-rotating-a-grid](https://github.com/bunnybhargavi/Leetcode/tree/master/1914-cyclically-rotating-a-grid) |
 | [1929-concatenation-of-array](https://github.com/bunnybhargavi/Leetcode/tree/master/1929-concatenation-of-array) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/bunnybhargavi/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1980-find-unique-binary-string](https://github.com/bunnybhargavi/Leetcode/tree/master/1980-find-unique-binary-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/bunnybhargavi/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/bunnybhargavi/Leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
@@ -282,6 +283,7 @@ Let’s grow together — line by line, code by code! 💪
 | [1871-jump-game-vii](https://github.com/bunnybhargavi/Leetcode/tree/master/1871-jump-game-vii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/bunnybhargavi/Leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1903-largest-odd-number-in-string](https://github.com/bunnybhargavi/Leetcode/tree/master/1903-largest-odd-number-in-string) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/bunnybhargavi/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1980-find-unique-binary-string](https://github.com/bunnybhargavi/Leetcode/tree/master/1980-find-unique-binary-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/bunnybhargavi/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/bunnybhargavi/Leetcode/tree/master/2452-words-within-two-edits-of-dictionary) |
