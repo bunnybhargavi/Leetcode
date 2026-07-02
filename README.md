@@ -150,6 +150,7 @@ Let’s grow together — line by line, code by code! 💪
 | [0744-find-smallest-letter-greater-than-target](https://github.com/bunnybhargavi/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0746-min-cost-climbing-stairs](https://github.com/bunnybhargavi/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/bunnybhargavi/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0860-lemonade-change](https://github.com/bunnybhargavi/Leetcode/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/bunnybhargavi/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0912-sort-an-array](https://github.com/bunnybhargavi/Leetcode/tree/master/0912-sort-an-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/bunnybhargavi/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -515,6 +516,7 @@ Let’s grow together — line by line, code by code! 💪
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/bunnybhargavi/Leetcode/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/bunnybhargavi/Leetcode/tree/master/0860-lemonade-change) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/bunnybhargavi/Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1833-maximum-ice-cream-bars](https://github.com/bunnybhargavi/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1903-largest-odd-number-in-string](https://github.com/bunnybhargavi/Leetcode/tree/master/1903-largest-odd-number-in-string) |
