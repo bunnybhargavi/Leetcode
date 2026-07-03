@@ -172,6 +172,7 @@ Let’s grow together — line by line, code by code! 💪
 | [1539-kth-missing-positive-number](https://github.com/bunnybhargavi/Leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1580-shuffle-the-array](https://github.com/bunnybhargavi/Leetcode/tree/master/1580-shuffle-the-array) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/bunnybhargavi/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1710-maximum-units-on-a-truck](https://github.com/bunnybhargavi/Leetcode/tree/master/1710-maximum-units-on-a-truck) |
 | [1732-find-the-highest-altitude](https://github.com/bunnybhargavi/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/bunnybhargavi/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1833-maximum-ice-cream-bars](https://github.com/bunnybhargavi/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
@@ -425,6 +426,7 @@ Let’s grow together — line by line, code by code! 💪
 | [1340-jump-game-v](https://github.com/bunnybhargavi/Leetcode/tree/master/1340-jump-game-v) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/bunnybhargavi/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/bunnybhargavi/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1710-maximum-units-on-a-truck](https://github.com/bunnybhargavi/Leetcode/tree/master/1710-maximum-units-on-a-truck) |
 | [1833-maximum-ice-cream-bars](https://github.com/bunnybhargavi/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [2126-destroying-asteroids](https://github.com/bunnybhargavi/Leetcode/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/bunnybhargavi/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -520,6 +522,7 @@ Let’s grow together — line by line, code by code! 💪
 | [0605-can-place-flowers](https://github.com/bunnybhargavi/Leetcode/tree/master/0605-can-place-flowers) |
 | [0860-lemonade-change](https://github.com/bunnybhargavi/Leetcode/tree/master/0860-lemonade-change) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/bunnybhargavi/Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [1710-maximum-units-on-a-truck](https://github.com/bunnybhargavi/Leetcode/tree/master/1710-maximum-units-on-a-truck) |
 | [1833-maximum-ice-cream-bars](https://github.com/bunnybhargavi/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1903-largest-odd-number-in-string](https://github.com/bunnybhargavi/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/bunnybhargavi/Leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
