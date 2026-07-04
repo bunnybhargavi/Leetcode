@@ -140,6 +140,7 @@ Let’s grow together — line by line, code by code! 💪
 | [0442-find-all-duplicates-in-an-array](https://github.com/bunnybhargavi/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/bunnybhargavi/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/bunnybhargavi/Leetcode/tree/master/0455-assign-cookies) |
+| [0506-relative-ranks](https://github.com/bunnybhargavi/Leetcode/tree/master/0506-relative-ranks) |
 | [0523-continuous-subarray-sum](https://github.com/bunnybhargavi/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/bunnybhargavi/Leetcode/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/bunnybhargavi/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -421,6 +422,7 @@ Let’s grow together — line by line, code by code! 💪
 | [0442-find-all-duplicates-in-an-array](https://github.com/bunnybhargavi/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/bunnybhargavi/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/bunnybhargavi/Leetcode/tree/master/0455-assign-cookies) |
+| [0506-relative-ranks](https://github.com/bunnybhargavi/Leetcode/tree/master/0506-relative-ranks) |
 | [0645-set-mismatch](https://github.com/bunnybhargavi/Leetcode/tree/master/0645-set-mismatch) |
 | [0912-sort-an-array](https://github.com/bunnybhargavi/Leetcode/tree/master/0912-sort-an-array) |
 | [1340-jump-game-v](https://github.com/bunnybhargavi/Leetcode/tree/master/1340-jump-game-v) |
@@ -551,6 +553,7 @@ Let’s grow together — line by line, code by code! 💪
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/bunnybhargavi/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0506-relative-ranks](https://github.com/bunnybhargavi/Leetcode/tree/master/0506-relative-ranks) |
 | [0912-sort-an-array](https://github.com/bunnybhargavi/Leetcode/tree/master/0912-sort-an-array) |
 ## Bucket Sort
 |  |
