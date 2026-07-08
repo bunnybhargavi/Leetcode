@@ -149,6 +149,7 @@ Let’s grow together — line by line, code by code! 💪
 | [0605-can-place-flowers](https://github.com/bunnybhargavi/Leetcode/tree/master/0605-can-place-flowers) |
 | [0645-set-mismatch](https://github.com/bunnybhargavi/Leetcode/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/bunnybhargavi/Leetcode/tree/master/0704-binary-search) |
+| [0740-delete-and-earn](https://github.com/bunnybhargavi/Leetcode/tree/master/0740-delete-and-earn) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/bunnybhargavi/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0746-min-cost-climbing-stairs](https://github.com/bunnybhargavi/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/bunnybhargavi/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -351,6 +352,7 @@ Let’s grow together — line by line, code by code! 💪
 | [0118-pascals-triangle](https://github.com/bunnybhargavi/Leetcode/tree/master/0118-pascals-triangle) |
 | [0198-house-robber](https://github.com/bunnybhargavi/Leetcode/tree/master/0198-house-robber) |
 | [0509-fibonacci-number](https://github.com/bunnybhargavi/Leetcode/tree/master/0509-fibonacci-number) |
+| [0740-delete-and-earn](https://github.com/bunnybhargavi/Leetcode/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/bunnybhargavi/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/bunnybhargavi/Leetcode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1340-jump-game-v](https://github.com/bunnybhargavi/Leetcode/tree/master/1340-jump-game-v) |
@@ -388,6 +390,7 @@ Let’s grow together — line by line, code by code! 💪
 | [0560-subarray-sum-equals-k](https://github.com/bunnybhargavi/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/bunnybhargavi/Leetcode/tree/master/0575-distribute-candies) |
 | [0645-set-mismatch](https://github.com/bunnybhargavi/Leetcode/tree/master/0645-set-mismatch) |
+| [0740-delete-and-earn](https://github.com/bunnybhargavi/Leetcode/tree/master/0740-delete-and-earn) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/bunnybhargavi/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0981-time-based-key-value-store](https://github.com/bunnybhargavi/Leetcode/tree/master/0981-time-based-key-value-store) |
 | [1146-snapshot-array](https://github.com/bunnybhargavi/Leetcode/tree/master/1146-snapshot-array) |
