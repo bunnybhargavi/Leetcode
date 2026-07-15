@@ -113,6 +113,7 @@ Let’s grow together — line by line, code by code! 💪
 | [0035-search-insert-position](https://github.com/bunnybhargavi/Leetcode/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/bunnybhargavi/Leetcode/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/bunnybhargavi/Leetcode/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/bunnybhargavi/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/bunnybhargavi/Leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/bunnybhargavi/Leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/bunnybhargavi/Leetcode/tree/master/0056-merge-intervals) |
@@ -357,6 +358,7 @@ Let’s grow together — line by line, code by code! 💪
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/bunnybhargavi/Leetcode/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/bunnybhargavi/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/bunnybhargavi/Leetcode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/bunnybhargavi/Leetcode/tree/master/0118-pascals-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/bunnybhargavi/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -490,6 +492,7 @@ Let’s grow together — line by line, code by code! 💪
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/bunnybhargavi/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/bunnybhargavi/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0234-palindrome-linked-list](https://github.com/bunnybhargavi/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/bunnybhargavi/Leetcode/tree/master/1021-remove-outermost-parentheses) |
@@ -514,6 +517,7 @@ Let’s grow together — line by line, code by code! 💪
 | [0027-remove-element](https://github.com/bunnybhargavi/Leetcode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/bunnybhargavi/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/bunnybhargavi/Leetcode/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/bunnybhargavi/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/bunnybhargavi/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0141-linked-list-cycle](https://github.com/bunnybhargavi/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/bunnybhargavi/Leetcode/tree/master/0142-linked-list-cycle-ii) |
@@ -655,4 +659,8 @@ Let’s grow together — line by line, code by code! 💪
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/bunnybhargavi/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/bunnybhargavi/Leetcode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
