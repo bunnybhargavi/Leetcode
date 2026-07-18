@@ -140,6 +140,7 @@ Let’s grow together — line by line, code by code! 💪
 | [0217-contains-duplicate](https://github.com/bunnybhargavi/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/bunnybhargavi/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/bunnybhargavi/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/bunnybhargavi/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0275-h-index-ii](https://github.com/bunnybhargavi/Leetcode/tree/master/0275-h-index-ii) |
 | [0283-move-zeroes](https://github.com/bunnybhargavi/Leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/bunnybhargavi/Leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -468,6 +469,7 @@ Let’s grow together — line by line, code by code! 💪
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/bunnybhargavi/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/bunnybhargavi/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0239-sliding-window-maximum](https://github.com/bunnybhargavi/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/bunnybhargavi/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/bunnybhargavi/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1871-jump-game-vii](https://github.com/bunnybhargavi/Leetcode/tree/master/1871-jump-game-vii) |
@@ -589,6 +591,7 @@ Let’s grow together — line by line, code by code! 💪
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/bunnybhargavi/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0451-sort-characters-by-frequency](https://github.com/bunnybhargavi/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0506-relative-ranks](https://github.com/bunnybhargavi/Leetcode/tree/master/0506-relative-ranks) |
 | [0912-sort-an-array](https://github.com/bunnybhargavi/Leetcode/tree/master/0912-sort-an-array) |
@@ -672,4 +675,12 @@ Let’s grow together — line by line, code by code! 💪
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/bunnybhargavi/Leetcode/tree/master/0042-trapping-rain-water) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/bunnybhargavi/Leetcode/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/bunnybhargavi/Leetcode/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
