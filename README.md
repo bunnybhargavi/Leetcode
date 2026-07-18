@@ -80,6 +80,7 @@ Let’s grow together — line by line, code by code! 💪
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/bunnybhargavi/Leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1903-largest-odd-number-in-string](https://github.com/bunnybhargavi/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/bunnybhargavi/Leetcode/tree/master/1922-count-good-numbers) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/bunnybhargavi/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2383-add-two-integers](https://github.com/bunnybhargavi/Leetcode/tree/master/2383-add-two-integers) |
 | [2556-convert-the-temperature](https://github.com/bunnybhargavi/Leetcode/tree/master/2556-convert-the-temperature) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/bunnybhargavi/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -191,6 +192,7 @@ Let’s grow together — line by line, code by code! 💪
 | [1914-cyclically-rotating-a-grid](https://github.com/bunnybhargavi/Leetcode/tree/master/1914-cyclically-rotating-a-grid) |
 | [1929-concatenation-of-array](https://github.com/bunnybhargavi/Leetcode/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/bunnybhargavi/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/bunnybhargavi/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1980-find-unique-binary-string](https://github.com/bunnybhargavi/Leetcode/tree/master/1980-find-unique-binary-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/bunnybhargavi/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/bunnybhargavi/Leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
@@ -268,6 +270,7 @@ Let’s grow together — line by line, code by code! 💪
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/bunnybhargavi/Leetcode/tree/master/0204-count-primes) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/bunnybhargavi/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/bunnybhargavi/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/bunnybhargavi/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
