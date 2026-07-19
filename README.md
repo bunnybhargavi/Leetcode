@@ -158,6 +158,7 @@ Let’s grow together — line by line, code by code! 💪
 | [0605-can-place-flowers](https://github.com/bunnybhargavi/Leetcode/tree/master/0605-can-place-flowers) |
 | [0645-set-mismatch](https://github.com/bunnybhargavi/Leetcode/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/bunnybhargavi/Leetcode/tree/master/0704-binary-search) |
+| [0724-find-pivot-index](https://github.com/bunnybhargavi/Leetcode/tree/master/0724-find-pivot-index) |
 | [0740-delete-and-earn](https://github.com/bunnybhargavi/Leetcode/tree/master/0740-delete-and-earn) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/bunnybhargavi/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0746-min-cost-climbing-stairs](https://github.com/bunnybhargavi/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
@@ -484,6 +485,7 @@ Let’s grow together — line by line, code by code! 💪
 | [0523-continuous-subarray-sum](https://github.com/bunnybhargavi/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/bunnybhargavi/Leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/bunnybhargavi/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/bunnybhargavi/Leetcode/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/bunnybhargavi/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1732-find-the-highest-altitude](https://github.com/bunnybhargavi/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1871-jump-game-vii](https://github.com/bunnybhargavi/Leetcode/tree/master/1871-jump-game-vii) |
