@@ -126,6 +126,7 @@ Let’s grow together — line by line, code by code! 💪
 | [0078-subsets](https://github.com/bunnybhargavi/Leetcode/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/bunnybhargavi/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/bunnybhargavi/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/bunnybhargavi/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/bunnybhargavi/Leetcode/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/bunnybhargavi/Leetcode/tree/master/0118-pascals-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/bunnybhargavi/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -440,6 +441,7 @@ Let’s grow together — line by line, code by code! 💪
 | ------- |
 | [0049-group-anagrams](https://github.com/bunnybhargavi/Leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/bunnybhargavi/Leetcode/tree/master/0056-merge-intervals) |
+| [0088-merge-sorted-array](https://github.com/bunnybhargavi/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/bunnybhargavi/Leetcode/tree/master/0148-sort-list) |
 | [0217-contains-duplicate](https://github.com/bunnybhargavi/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/bunnybhargavi/Leetcode/tree/master/0242-valid-anagram) |
@@ -529,6 +531,7 @@ Let’s grow together — line by line, code by code! 💪
 | [0031-next-permutation](https://github.com/bunnybhargavi/Leetcode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/bunnybhargavi/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/bunnybhargavi/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/bunnybhargavi/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/bunnybhargavi/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/bunnybhargavi/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/bunnybhargavi/Leetcode/tree/master/0148-sort-list) |
