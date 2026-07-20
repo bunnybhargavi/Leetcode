@@ -171,6 +171,7 @@ Let’s grow together — line by line, code by code! 💪
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/bunnybhargavi/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1146-snapshot-array](https://github.com/bunnybhargavi/Leetcode/tree/master/1146-snapshot-array) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/bunnybhargavi/Leetcode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
+| [1260-shift-2d-grid](https://github.com/bunnybhargavi/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/bunnybhargavi/Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1306-jump-game-iii](https://github.com/bunnybhargavi/Leetcode/tree/master/1306-jump-game-iii) |
 | [1340-jump-game-v](https://github.com/bunnybhargavi/Leetcode/tree/master/1340-jump-game-v) |
@@ -347,6 +348,7 @@ Let’s grow together — line by line, code by code! 💪
 | ------- |
 | [0067-add-binary](https://github.com/bunnybhargavi/Leetcode/tree/master/0067-add-binary) |
 | [0657-robot-return-to-origin](https://github.com/bunnybhargavi/Leetcode/tree/master/0657-robot-return-to-origin) |
+| [1260-shift-2d-grid](https://github.com/bunnybhargavi/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/bunnybhargavi/Leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1441-build-an-array-with-stack-operations](https://github.com/bunnybhargavi/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/bunnybhargavi/Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
@@ -521,6 +523,7 @@ Let’s grow together — line by line, code by code! 💪
 | [0048-rotate-image](https://github.com/bunnybhargavi/Leetcode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/bunnybhargavi/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/bunnybhargavi/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [1260-shift-2d-grid](https://github.com/bunnybhargavi/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/bunnybhargavi/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/bunnybhargavi/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1861-rotating-the-box](https://github.com/bunnybhargavi/Leetcode/tree/master/1861-rotating-the-box) |
