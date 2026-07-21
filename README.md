@@ -156,6 +156,7 @@ Let’s grow together — line by line, code by code! 💪
 | [0560-subarray-sum-equals-k](https://github.com/bunnybhargavi/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/bunnybhargavi/Leetcode/tree/master/0575-distribute-candies) |
 | [0605-can-place-flowers](https://github.com/bunnybhargavi/Leetcode/tree/master/0605-can-place-flowers) |
+| [0643-maximum-average-subarray-i](https://github.com/bunnybhargavi/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/bunnybhargavi/Leetcode/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/bunnybhargavi/Leetcode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/bunnybhargavi/Leetcode/tree/master/0724-find-pivot-index) |
@@ -477,6 +478,7 @@ Let’s grow together — line by line, code by code! 💪
 | [0219-contains-duplicate-ii](https://github.com/bunnybhargavi/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/bunnybhargavi/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/bunnybhargavi/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0643-maximum-average-subarray-i](https://github.com/bunnybhargavi/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/bunnybhargavi/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1871-jump-game-vii](https://github.com/bunnybhargavi/Leetcode/tree/master/1871-jump-game-vii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/bunnybhargavi/Leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
