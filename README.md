@@ -75,6 +75,7 @@ Let’s grow together — line by line, code by code! 💪
 | [0509-fibonacci-number](https://github.com/bunnybhargavi/Leetcode/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/bunnybhargavi/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/bunnybhargavi/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [1025-divisor-game](https://github.com/bunnybhargavi/Leetcode/tree/master/1025-divisor-game) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/bunnybhargavi/Leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1674-minimum-operations-to-make-array-equal](https://github.com/bunnybhargavi/Leetcode/tree/master/1674-minimum-operations-to-make-array-equal) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/bunnybhargavi/Leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
@@ -371,6 +372,7 @@ Let’s grow together — line by line, code by code! 💪
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/bunnybhargavi/Leetcode/tree/master/0319-bulb-switcher) |
+| [1025-divisor-game](https://github.com/bunnybhargavi/Leetcode/tree/master/1025-divisor-game) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -384,6 +386,7 @@ Let’s grow together — line by line, code by code! 💪
 | [0509-fibonacci-number](https://github.com/bunnybhargavi/Leetcode/tree/master/0509-fibonacci-number) |
 | [0740-delete-and-earn](https://github.com/bunnybhargavi/Leetcode/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/bunnybhargavi/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
+| [1025-divisor-game](https://github.com/bunnybhargavi/Leetcode/tree/master/1025-divisor-game) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/bunnybhargavi/Leetcode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1340-jump-game-v](https://github.com/bunnybhargavi/Leetcode/tree/master/1340-jump-game-v) |
 | [1871-jump-game-vii](https://github.com/bunnybhargavi/Leetcode/tree/master/1871-jump-game-vii) |
@@ -704,4 +707,8 @@ Let’s grow together — line by line, code by code! 💪
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/bunnybhargavi/Leetcode/tree/master/0239-sliding-window-maximum) |
+## Game Theory
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/bunnybhargavi/Leetcode/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
