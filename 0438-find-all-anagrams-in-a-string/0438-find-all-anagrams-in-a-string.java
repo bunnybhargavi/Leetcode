@@ -2,7 +2,6 @@ class Solution {
     public List<Integer> findAnagrams(String s, String p) {
         int n = s.length();
         int m = p.length();
-        //if(m > n) return new List<>(0);
         List<Integer> ans = new ArrayList<>();
         int[] f1 = new int[26];
         int[] f2 = new int[26];
