@@ -140,6 +140,7 @@ Let’s grow together — line by line, code by code! 💪
 | [0189-rotate-array](https://github.com/bunnybhargavi/Leetcode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/bunnybhargavi/Leetcode/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/bunnybhargavi/Leetcode/tree/master/0204-count-primes) |
+| [0209-minimum-size-subarray-sum](https://github.com/bunnybhargavi/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/bunnybhargavi/Leetcode/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/bunnybhargavi/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/bunnybhargavi/Leetcode/tree/master/0219-contains-duplicate-ii) |
@@ -246,6 +247,7 @@ Let’s grow together — line by line, code by code! 💪
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/bunnybhargavi/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/bunnybhargavi/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/bunnybhargavi/Leetcode/tree/master/0162-find-peak-element) |
+| [0209-minimum-size-subarray-sum](https://github.com/bunnybhargavi/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0275-h-index-ii](https://github.com/bunnybhargavi/Leetcode/tree/master/0275-h-index-ii) |
 | [0278-first-bad-version](https://github.com/bunnybhargavi/Leetcode/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/bunnybhargavi/Leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -488,6 +490,7 @@ Let’s grow together — line by line, code by code! 💪
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/bunnybhargavi/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/bunnybhargavi/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/bunnybhargavi/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/bunnybhargavi/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/bunnybhargavi/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
@@ -502,6 +505,7 @@ Let’s grow together — line by line, code by code! 💪
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/bunnybhargavi/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/bunnybhargavi/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0523-continuous-subarray-sum](https://github.com/bunnybhargavi/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/bunnybhargavi/Leetcode/tree/master/0525-contiguous-array) |
