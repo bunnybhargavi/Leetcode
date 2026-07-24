@@ -308,6 +308,7 @@ Let’s grow together — line by line, code by code! 💪
 | [0242-valid-anagram](https://github.com/bunnybhargavi/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/bunnybhargavi/Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/bunnybhargavi/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0402-remove-k-digits](https://github.com/bunnybhargavi/Leetcode/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/bunnybhargavi/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/bunnybhargavi/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/bunnybhargavi/Leetcode/tree/master/0451-sort-characters-by-frequency) |
@@ -552,6 +553,7 @@ Let’s grow together — line by line, code by code! 💪
 | [0042-trapping-rain-water](https://github.com/bunnybhargavi/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/bunnybhargavi/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0234-palindrome-linked-list](https://github.com/bunnybhargavi/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0402-remove-k-digits](https://github.com/bunnybhargavi/Leetcode/tree/master/0402-remove-k-digits) |
 | [1021-remove-outermost-parentheses](https://github.com/bunnybhargavi/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/bunnybhargavi/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1441-build-an-array-with-stack-operations](https://github.com/bunnybhargavi/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
@@ -612,6 +614,7 @@ Let’s grow together — line by line, code by code! 💪
 | [0045-jump-game-ii](https://github.com/bunnybhargavi/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/bunnybhargavi/Leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/bunnybhargavi/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0402-remove-k-digits](https://github.com/bunnybhargavi/Leetcode/tree/master/0402-remove-k-digits) |
 | [0435-non-overlapping-intervals](https://github.com/bunnybhargavi/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/bunnybhargavi/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/bunnybhargavi/Leetcode/tree/master/0455-assign-cookies) |
@@ -733,6 +736,7 @@ Let’s grow together — line by line, code by code! 💪
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/bunnybhargavi/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0402-remove-k-digits](https://github.com/bunnybhargavi/Leetcode/tree/master/0402-remove-k-digits) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/bunnybhargavi/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Queue
 |  |
