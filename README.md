@@ -149,6 +149,7 @@ Let’s grow together — line by line, code by code! 💪
 | [0275-h-index-ii](https://github.com/bunnybhargavi/Leetcode/tree/master/0275-h-index-ii) |
 | [0283-move-zeroes](https://github.com/bunnybhargavi/Leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/bunnybhargavi/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0435-non-overlapping-intervals](https://github.com/bunnybhargavi/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0436-find-right-interval](https://github.com/bunnybhargavi/Leetcode/tree/master/0436-find-right-interval) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/bunnybhargavi/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/bunnybhargavi/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -394,6 +395,7 @@ Let’s grow together — line by line, code by code! 💪
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/bunnybhargavi/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/bunnybhargavi/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/bunnybhargavi/Leetcode/tree/master/0213-house-robber-ii) |
+| [0435-non-overlapping-intervals](https://github.com/bunnybhargavi/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/bunnybhargavi/Leetcode/tree/master/0509-fibonacci-number) |
 | [0740-delete-and-earn](https://github.com/bunnybhargavi/Leetcode/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/bunnybhargavi/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
@@ -473,6 +475,7 @@ Let’s grow together — line by line, code by code! 💪
 | [0217-contains-duplicate](https://github.com/bunnybhargavi/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/bunnybhargavi/Leetcode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/bunnybhargavi/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0435-non-overlapping-intervals](https://github.com/bunnybhargavi/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0436-find-right-interval](https://github.com/bunnybhargavi/Leetcode/tree/master/0436-find-right-interval) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/bunnybhargavi/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/bunnybhargavi/Leetcode/tree/master/0451-sort-characters-by-frequency) |
@@ -606,6 +609,7 @@ Let’s grow together — line by line, code by code! 💪
 | [0045-jump-game-ii](https://github.com/bunnybhargavi/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/bunnybhargavi/Leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/bunnybhargavi/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0435-non-overlapping-intervals](https://github.com/bunnybhargavi/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/bunnybhargavi/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/bunnybhargavi/Leetcode/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/bunnybhargavi/Leetcode/tree/master/0605-can-place-flowers) |
