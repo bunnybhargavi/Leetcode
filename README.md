@@ -173,6 +173,7 @@ Let’s grow together — line by line, code by code! 💪
 | [0852-peak-index-in-a-mountain-array](https://github.com/bunnybhargavi/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0860-lemonade-change](https://github.com/bunnybhargavi/Leetcode/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/bunnybhargavi/Leetcode/tree/master/0875-koko-eating-bananas) |
+| [0881-boats-to-save-people](https://github.com/bunnybhargavi/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/bunnybhargavi/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0912-sort-an-array](https://github.com/bunnybhargavi/Leetcode/tree/master/0912-sort-an-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/bunnybhargavi/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -484,6 +485,7 @@ Let’s grow together — line by line, code by code! 💪
 | [0506-relative-ranks](https://github.com/bunnybhargavi/Leetcode/tree/master/0506-relative-ranks) |
 | [0645-set-mismatch](https://github.com/bunnybhargavi/Leetcode/tree/master/0645-set-mismatch) |
 | [0826-most-profit-assigning-work](https://github.com/bunnybhargavi/Leetcode/tree/master/0826-most-profit-assigning-work) |
+| [0881-boats-to-save-people](https://github.com/bunnybhargavi/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/bunnybhargavi/Leetcode/tree/master/0912-sort-an-array) |
 | [1340-jump-game-v](https://github.com/bunnybhargavi/Leetcode/tree/master/1340-jump-game-v) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/bunnybhargavi/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -593,6 +595,7 @@ Let’s grow together — line by line, code by code! 💪
 | [0567-permutation-in-string](https://github.com/bunnybhargavi/Leetcode/tree/master/0567-permutation-in-string) |
 | [0826-most-profit-assigning-work](https://github.com/bunnybhargavi/Leetcode/tree/master/0826-most-profit-assigning-work) |
 | [0876-middle-of-the-linked-list](https://github.com/bunnybhargavi/Leetcode/tree/master/0876-middle-of-the-linked-list) |
+| [0881-boats-to-save-people](https://github.com/bunnybhargavi/Leetcode/tree/master/0881-boats-to-save-people) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/bunnybhargavi/Leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/bunnybhargavi/Leetcode/tree/master/1861-rotating-the-box) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/bunnybhargavi/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -615,6 +618,7 @@ Let’s grow together — line by line, code by code! 💪
 | [0605-can-place-flowers](https://github.com/bunnybhargavi/Leetcode/tree/master/0605-can-place-flowers) |
 | [0826-most-profit-assigning-work](https://github.com/bunnybhargavi/Leetcode/tree/master/0826-most-profit-assigning-work) |
 | [0860-lemonade-change](https://github.com/bunnybhargavi/Leetcode/tree/master/0860-lemonade-change) |
+| [0881-boats-to-save-people](https://github.com/bunnybhargavi/Leetcode/tree/master/0881-boats-to-save-people) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/bunnybhargavi/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/bunnybhargavi/Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1710-maximum-units-on-a-truck](https://github.com/bunnybhargavi/Leetcode/tree/master/1710-maximum-units-on-a-truck) |
