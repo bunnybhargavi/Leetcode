@@ -86,6 +86,7 @@ Let’s grow together — line by line, code by code! 💪
 | [2383-add-two-integers](https://github.com/bunnybhargavi/Leetcode/tree/master/2383-add-two-integers) |
 | [2556-convert-the-temperature](https://github.com/bunnybhargavi/Leetcode/tree/master/2556-convert-the-temperature) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/bunnybhargavi/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3536-maximum-product-of-two-digits](https://github.com/bunnybhargavi/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/bunnybhargavi/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/bunnybhargavi/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/bunnybhargavi/Leetcode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
@@ -500,6 +501,7 @@ Let’s grow together — line by line, code by code! 💪
 | [2126-destroying-asteroids](https://github.com/bunnybhargavi/Leetcode/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/bunnybhargavi/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2784-check-if-array-is-good](https://github.com/bunnybhargavi/Leetcode/tree/master/2784-check-if-array-is-good) |
+| [3536-maximum-product-of-two-digits](https://github.com/bunnybhargavi/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/bunnybhargavi/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/bunnybhargavi/Leetcode/tree/master/3634-minimum-removals-to-balance-array) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/bunnybhargavi/Leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
