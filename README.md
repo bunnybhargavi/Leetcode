@@ -74,6 +74,7 @@ Let’s grow together — line by line, code by code! 💪
 | [0441-arranging-coins](https://github.com/bunnybhargavi/Leetcode/tree/master/0441-arranging-coins) |
 | [0509-fibonacci-number](https://github.com/bunnybhargavi/Leetcode/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/bunnybhargavi/Leetcode/tree/master/0523-continuous-subarray-sum) |
+| [0628-maximum-product-of-three-numbers](https://github.com/bunnybhargavi/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/bunnybhargavi/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0973-k-closest-points-to-origin](https://github.com/bunnybhargavi/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1025-divisor-game](https://github.com/bunnybhargavi/Leetcode/tree/master/1025-divisor-game) |
@@ -166,6 +167,7 @@ Let’s grow together — line by line, code by code! 💪
 | [0560-subarray-sum-equals-k](https://github.com/bunnybhargavi/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/bunnybhargavi/Leetcode/tree/master/0575-distribute-candies) |
 | [0605-can-place-flowers](https://github.com/bunnybhargavi/Leetcode/tree/master/0605-can-place-flowers) |
+| [0628-maximum-product-of-three-numbers](https://github.com/bunnybhargavi/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/bunnybhargavi/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/bunnybhargavi/Leetcode/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/bunnybhargavi/Leetcode/tree/master/0704-binary-search) |
@@ -492,6 +494,7 @@ Let’s grow together — line by line, code by code! 💪
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/bunnybhargavi/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/bunnybhargavi/Leetcode/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/bunnybhargavi/Leetcode/tree/master/0506-relative-ranks) |
+| [0628-maximum-product-of-three-numbers](https://github.com/bunnybhargavi/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/bunnybhargavi/Leetcode/tree/master/0645-set-mismatch) |
 | [0826-most-profit-assigning-work](https://github.com/bunnybhargavi/Leetcode/tree/master/0826-most-profit-assigning-work) |
 | [0881-boats-to-save-people](https://github.com/bunnybhargavi/Leetcode/tree/master/0881-boats-to-save-people) |
