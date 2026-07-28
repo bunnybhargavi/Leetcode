@@ -95,6 +95,7 @@ Let’s grow together — line by line, code by code! 💪
 | [3830-find-closest-person](https://github.com/bunnybhargavi/Leetcode/tree/master/3830-find-closest-person) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/bunnybhargavi/Leetcode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/bunnybhargavi/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/bunnybhargavi/Leetcode/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
 ## Recursion
 |  |
 | ------- |
@@ -301,6 +302,7 @@ Let’s grow together — line by line, code by code! 💪
 | [1979-find-greatest-common-divisor-of-array](https://github.com/bunnybhargavi/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/bunnybhargavi/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/bunnybhargavi/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/bunnybhargavi/Leetcode/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
 ## String
 |  |
 | ------- |
