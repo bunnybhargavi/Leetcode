@@ -575,6 +575,7 @@ Let’s grow together — line by line, code by code! 💪
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/bunnybhargavi/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0094-binary-tree-inorder-traversal](https://github.com/bunnybhargavi/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/bunnybhargavi/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0234-palindrome-linked-list](https://github.com/bunnybhargavi/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/bunnybhargavi/Leetcode/tree/master/0402-remove-k-digits) |
@@ -740,10 +741,12 @@ Let’s grow together — line by line, code by code! 💪
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/bunnybhargavi/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/bunnybhargavi/Leetcode/tree/master/0100-same-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/bunnybhargavi/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/bunnybhargavi/Leetcode/tree/master/0100-same-tree) |
 | [1306-jump-game-iii](https://github.com/bunnybhargavi/Leetcode/tree/master/1306-jump-game-iii) |
 ## Breadth-First Search
@@ -756,6 +759,7 @@ Let’s grow together — line by line, code by code! 💪
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/bunnybhargavi/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/bunnybhargavi/Leetcode/tree/master/0100-same-tree) |
 ## Segment Tree
 |  |
