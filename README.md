@@ -76,6 +76,7 @@ Let’s grow together — line by line, code by code! 💪
 | [0523-continuous-subarray-sum](https://github.com/bunnybhargavi/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/bunnybhargavi/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/bunnybhargavi/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [0877-stone-game](https://github.com/bunnybhargavi/Leetcode/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/bunnybhargavi/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1025-divisor-game](https://github.com/bunnybhargavi/Leetcode/tree/master/1025-divisor-game) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/bunnybhargavi/Leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
@@ -181,6 +182,7 @@ Let’s grow together — line by line, code by code! 💪
 | [0852-peak-index-in-a-mountain-array](https://github.com/bunnybhargavi/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0860-lemonade-change](https://github.com/bunnybhargavi/Leetcode/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/bunnybhargavi/Leetcode/tree/master/0875-koko-eating-bananas) |
+| [0877-stone-game](https://github.com/bunnybhargavi/Leetcode/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/bunnybhargavi/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/bunnybhargavi/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0912-sort-an-array](https://github.com/bunnybhargavi/Leetcode/tree/master/0912-sort-an-array) |
@@ -417,6 +419,7 @@ Let’s grow together — line by line, code by code! 💪
 | [0509-fibonacci-number](https://github.com/bunnybhargavi/Leetcode/tree/master/0509-fibonacci-number) |
 | [0740-delete-and-earn](https://github.com/bunnybhargavi/Leetcode/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/bunnybhargavi/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
+| [0877-stone-game](https://github.com/bunnybhargavi/Leetcode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/bunnybhargavi/Leetcode/tree/master/1025-divisor-game) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/bunnybhargavi/Leetcode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1340-jump-game-v](https://github.com/bunnybhargavi/Leetcode/tree/master/1340-jump-game-v) |
@@ -801,6 +804,7 @@ Let’s grow together — line by line, code by code! 💪
 ## Game Theory
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/bunnybhargavi/Leetcode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/bunnybhargavi/Leetcode/tree/master/1025-divisor-game) |
 ## Geometry
 |  |
