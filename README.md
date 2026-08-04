@@ -829,4 +829,8 @@ Let’s grow together — line by line, code by code! 💪
 |  |
 | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/bunnybhargavi/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/bunnybhargavi/Leetcode/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
