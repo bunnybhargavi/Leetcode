@@ -10,11 +10,9 @@ class Solution {
             } else if (!isVowel(arr[j])) {
                 j--;
             } else {
-                // swap in array
                 char temp = arr[i];
                 arr[i] = arr[j];
                 arr[j] = temp;
-
                 i++;
                 j--;
             }
