@@ -192,6 +192,7 @@ Let’s grow together — line by line, code by code! 💪
 | [0992-subarrays-with-k-different-integers](https://github.com/bunnybhargavi/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/bunnybhargavi/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/bunnybhargavi/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1122-relative-sort-array](https://github.com/bunnybhargavi/Leetcode/tree/master/1122-relative-sort-array) |
 | [1146-snapshot-array](https://github.com/bunnybhargavi/Leetcode/tree/master/1146-snapshot-array) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/bunnybhargavi/Leetcode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1260-shift-2d-grid](https://github.com/bunnybhargavi/Leetcode/tree/master/1260-shift-2d-grid) |
@@ -471,6 +472,7 @@ Let’s grow together — line by line, code by code! 💪
 | [0974-subarray-sums-divisible-by-k](https://github.com/bunnybhargavi/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0981-time-based-key-value-store](https://github.com/bunnybhargavi/Leetcode/tree/master/0981-time-based-key-value-store) |
 | [0992-subarrays-with-k-different-integers](https://github.com/bunnybhargavi/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
+| [1122-relative-sort-array](https://github.com/bunnybhargavi/Leetcode/tree/master/1122-relative-sort-array) |
 | [1146-snapshot-array](https://github.com/bunnybhargavi/Leetcode/tree/master/1146-snapshot-array) |
 | [1189-maximum-number-of-balloons](https://github.com/bunnybhargavi/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1345-jump-game-iv](https://github.com/bunnybhargavi/Leetcode/tree/master/1345-jump-game-iv) |
@@ -515,6 +517,7 @@ Let’s grow together — line by line, code by code! 💪
 | [0881-boats-to-save-people](https://github.com/bunnybhargavi/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/bunnybhargavi/Leetcode/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/bunnybhargavi/Leetcode/tree/master/0973-k-closest-points-to-origin) |
+| [1122-relative-sort-array](https://github.com/bunnybhargavi/Leetcode/tree/master/1122-relative-sort-array) |
 | [1340-jump-game-v](https://github.com/bunnybhargavi/Leetcode/tree/master/1340-jump-game-v) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/bunnybhargavi/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/bunnybhargavi/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -572,6 +575,7 @@ Let’s grow together — line by line, code by code! 💪
 | [0451-sort-characters-by-frequency](https://github.com/bunnybhargavi/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0912-sort-an-array](https://github.com/bunnybhargavi/Leetcode/tree/master/0912-sort-an-array) |
 | [0992-subarrays-with-k-different-integers](https://github.com/bunnybhargavi/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
+| [1122-relative-sort-array](https://github.com/bunnybhargavi/Leetcode/tree/master/1122-relative-sort-array) |
 | [1189-maximum-number-of-balloons](https://github.com/bunnybhargavi/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/bunnybhargavi/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/bunnybhargavi/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -837,4 +841,12 @@ Let’s grow together — line by line, code by code! 💪
 | [1148-article-views-i](https://github.com/bunnybhargavi/Leetcode/tree/master/1148-article-views-i) |
 | [1683-invalid-tweets](https://github.com/bunnybhargavi/Leetcode/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/bunnybhargavi/Leetcode/tree/master/1757-recyclable-and-low-fat-products) |
+## Quicksort
+|  |
+| ------- |
+| [1122-relative-sort-array](https://github.com/bunnybhargavi/Leetcode/tree/master/1122-relative-sort-array) |
+## Bubble Sort
+|  |
+| ------- |
+| [1122-relative-sort-array](https://github.com/bunnybhargavi/Leetcode/tree/master/1122-relative-sort-array) |
 <!---LeetCode Topics End-->
