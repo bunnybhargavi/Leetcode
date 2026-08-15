@@ -866,4 +866,8 @@ Let’s grow together — line by line, code by code! 💪
 |  |
 | ------- |
 | [1122-relative-sort-array](https://github.com/bunnybhargavi/Leetcode/tree/master/1122-relative-sort-array) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/bunnybhargavi/Leetcode/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
