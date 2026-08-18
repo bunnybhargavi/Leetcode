@@ -243,6 +243,7 @@ Let’s grow together — line by line, code by code! 💪
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/bunnybhargavi/Leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/bunnybhargavi/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3379-transformed-array](https://github.com/bunnybhargavi/Leetcode/tree/master/3379-transformed-array) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/bunnybhargavi/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/bunnybhargavi/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/bunnybhargavi/Leetcode/tree/master/3634-minimum-removals-to-balance-array) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/bunnybhargavi/Leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -495,6 +496,7 @@ Let’s grow together — line by line, code by code! 💪
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/bunnybhargavi/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/bunnybhargavi/Leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/bunnybhargavi/Leetcode/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/bunnybhargavi/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3668-restore-finishing-order](https://github.com/bunnybhargavi/Leetcode/tree/master/3668-restore-finishing-order) |
 | [3713-longest-balanced-substring-i](https://github.com/bunnybhargavi/Leetcode/tree/master/3713-longest-balanced-substring-i) |
 | [3731-find-missing-elements](https://github.com/bunnybhargavi/Leetcode/tree/master/3731-find-missing-elements) |
