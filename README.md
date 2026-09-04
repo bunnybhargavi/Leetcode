@@ -259,6 +259,7 @@ Let’s grow together — line by line, code by code! 💪
 | [3838-weighted-word-mapping](https://github.com/bunnybhargavi/Leetcode/tree/master/3838-weighted-word-mapping) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/bunnybhargavi/Leetcode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/bunnybhargavi/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3903-smallest-stable-index-i](https://github.com/bunnybhargavi/Leetcode/tree/master/3903-smallest-stable-index-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -583,6 +584,7 @@ Let’s grow together — line by line, code by code! 💪
 | [1871-jump-game-vii](https://github.com/bunnybhargavi/Leetcode/tree/master/1871-jump-game-vii) |
 | [2574-left-and-right-sum-differences](https://github.com/bunnybhargavi/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/bunnybhargavi/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3903-smallest-stable-index-i](https://github.com/bunnybhargavi/Leetcode/tree/master/3903-smallest-stable-index-i) |
 ## Counting Sort
 |  |
 | ------- |
